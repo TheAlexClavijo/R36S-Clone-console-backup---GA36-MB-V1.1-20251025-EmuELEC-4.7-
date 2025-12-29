@@ -25,7 +25,7 @@ This backup is intended **ONLY** for R36S Clone consoles using the **GA36-MB V1.
 
 Please verify your board before using this image.
 
-![GA36-MB V1.1 motherboard](ga36-mb-v1.1-board.jpg)
+![](ga36-mb-v1.1-board.jpg)
 
 Board identification details:
 - PCB marking: **GA36-MB**
