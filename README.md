@@ -1,6 +1,6 @@
-# R36S Clone – GA36-MB V1.1 – EmuELEC 4.7 (SD Card Backup)
+# R36S Clone – GA36-MB V1.1–20251025 · EmuELEC 4.7 (128GB SD Card Backup)
 
-This repository contains a **full backup of the original SD card** from an **R36S Clone** console with **GA36-MB V1.1 motherboard**, running **EmuELEC 4.7**.
+This repository contains a **full backup of the original SD card** from an **R36S Clone** console with **GA36-MB V1.1-20251025**, running **EmuELEC 4.7**.
 
 Its purpose is to help anyone who has **broken, lost, or corrupted the original SD card** and needs to restore the console to a working state.
 
