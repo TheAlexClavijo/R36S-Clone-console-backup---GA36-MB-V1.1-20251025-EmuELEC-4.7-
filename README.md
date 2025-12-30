@@ -83,9 +83,10 @@ How to extract:
 
 ### Integrity check (SHA256)
 
-File:
+**File:**  
 R36S_GA36-MB_V1.1_EmuELEC_4.7.7z
-SHA256:
+
+**SHA256:**  
 953c9aad0ccbea4ab9f0eb86cae7f2933263ad34a2934c21c8bd4b1304c724da
 
 NOTE: If the SHA256 hash matches, the file is confirmed to be complete and unmodified.
