@@ -75,6 +75,16 @@ How to extract:
 2. Place them in the same folder
 3. Right-click on `.7z.001` → Extract here
 
+### Integrity check (SHA256)
+
+File:
+R36S_GA36-MB_V1.1_EmuELEC_4.7.7z
+
+SHA256:
+953c9aad0ccbea4ab9f0eb86cae7f2933263ad34a2934c21c8bd4b1304c724da
+
+NOTE: If the SHA256 hash matches, the file is confirmed to be complete and unmodified.
+
 ---
 
 ## 🧰 How to restore the image (Windows)
