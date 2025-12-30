@@ -55,7 +55,7 @@ Why:
 
 ---
 
-## Download (100% Free)
+## 📥 Download (100% Free)
 
 The compressed backup is ~68 GB.
 To keep this project completely free, the archive is split into multiple
