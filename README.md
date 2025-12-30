@@ -55,6 +55,28 @@ Why:
 
 ---
 
+## Download (100% Free)
+
+The compressed backup is ~68 GB.
+To keep this project completely free, the archive is split into multiple
+parts and hosted on free cloud services.
+
+All parts are required.
+
+Download:
+- Part 1 (.001) – InfiniCLOUD: *(pending)*
+- Part 2 (.002) – InfiniCLOUD: *(pending)*
+- Part 3 (.003) – MEGA: *(pending)*
+- Part 4 (.004) – MEGA: [Download](https://mega.nz/file/fw4hEBJJ#C7o9uYRlXFD6oYnO7Pe3cxMB8EYuvUxs53BA1hYCR5o)
+- Part 5 (.005) – MEGA: [Download](https://mega.nz/file/SsYnVbhD#l47yUtr7aVzVffT6rBcucJRy4TzmLEZhb-jQHT0fcCI)
+
+How to extract:
+1. Download ALL parts
+2. Place them in the same folder
+3. Right-click on `.7z.001` → Extract here
+
+---
+
 ## 🧰 How to restore the image (Windows)
 
 You can use **DiskGenius** or **Rufus**. Both work perfectly.
