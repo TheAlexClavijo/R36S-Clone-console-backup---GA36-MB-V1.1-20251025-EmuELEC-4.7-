@@ -64,8 +64,8 @@ parts and hosted on free cloud services.
 All parts are required.
 
 Download:
-- Part 1 (.001) – InfiniCLOUD: *(pending)*
-- Part 2 (.002) – InfiniCLOUD: *(pending)*
+- Part 1 (.001) – InfiniCLOUD: [Download](https://rebun.infini-cloud.net/share/1331ac756e2f8495)
+- Part 2 (.002) – InfiniCLOUD: [Download](https://rebun.infini-cloud.net/share/13316fd9d0486725)
 - Part 3 (.003) – MEGA: [Download](https://mega.nz/file/hQNGnagT#ZIMZUpj4xhNhKojEchhYYLQToutuRSAQ5jo94iDjrSI)
 - Part 4 (.004) – MEGA: [Download](https://mega.nz/file/fw4hEBJJ#C7o9uYRlXFD6oYnO7Pe3cxMB8EYuvUxs53BA1hYCR5o)
 - Part 5 (.005) – MEGA: [Download](https://mega.nz/file/SsYnVbhD#l47yUtr7aVzVffT6rBcucJRy4TzmLEZhb-jQHT0fcCI)
