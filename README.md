@@ -79,11 +79,18 @@ How to extract:
 
 File:
 R36S_GA36-MB_V1.1_EmuELEC_4.7.7z
-
 SHA256:
 953c9aad0ccbea4ab9f0eb86cae7f2933263ad34a2934c21c8bd4b1304c724da
 
 NOTE: If the SHA256 hash matches, the file is confirmed to be complete and unmodified.
+
+### ⚠️ Important (Read before flashing)
+
+Before using **Method 1** or **Method 2**, you **must extract** the archive  
+`R36S_GA36-MB_V1.1_EmuELEC_4.7.7z`.
+
+Inside the extracted folder you will find the **`.img` file**, which is the
+actual SD card image that must be flashed to the microSD card.
 
 ---
 
