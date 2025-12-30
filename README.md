@@ -165,6 +165,52 @@ Feel free to contribute.
 
 ---
 
+## ❓ FAQ (Frequently Asked Questions)
+
+### ❓ Is this a custom firmware or mod?
+No. This is a **1:1 image of the original SD card** that came with the console.
+Nothing has been modified.
+
+---
+
+### ❓ Can I use this on a different R36S model or board?
+No. This image is **ONLY compatible with the GA36-MB V1.1 motherboard**.
+Using it on other boards may result in a non-booting system.
+
+---
+
+### ❓ Can I use a 64 GB SD card?
+No. A **128 GB SD card is required**.  
+Using smaller cards is not recommended and may fail.
+
+---
+
+### ❓ Why is the backup split into multiple files?
+To keep the project **100% free** and avoid paid hosting services.
+All parts must be downloaded and extracted together.
+
+---
+
+### ❓ Where is the `.img` file?
+The `.img` file is inside the extracted archive.
+You must first extract `R36S_GA36-MB_V1.1_EmuELEC_4.7.7z` before flashing.
+
+---
+
+### ❓ The console shows a black screen. What should I do?
+- Verify your motherboard version
+- Use a high-quality 128 GB SD card
+- Reflash the image carefully
+- Try a different SD card reader if possible
+
+---
+
+### ❓ The first boot takes a long time. Is this normal?
+Yes. On first boot, EmuELEC may resize partitions.
+**Do not power off the console during this process.**
+
+---
+
 ## ⭐ If this repository helped you
 
 Please leave a star ⭐ so others can find it more easily.
